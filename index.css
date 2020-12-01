@@ -1,0 +1,46 @@
+.a{background-color: rgb(80, 80, 168);
+width: 100%;
+height: 120px;
+}
+img{left: 10px;
+margin-left: 100px;
+margin-top: 25px;}
+
+.b{float: right;
+right: 10px;
+margin-right: 30px;
+margin-top: 25px;
+color: white;
+margin-left: 1px;
+}
+
+.c{float: right;
+    right: 10px;
+    margin-right: 60px;
+    margin-top: 25px;
+    color: white;
+    margin-left: 1px;}
+
+    button{color: white;
+    background-color: rgb(80, 80, 168);
+margin-left: 5px;}
+
+.d{width: 100%;}
+.e{width: 40%;
+    /* float: right; */
+    /* margin-right: 800px; */
+    right: 200px;
+}
+p{margin-left: 100px;
+margin-top: 25px;
+font-size: x-large;}
+.f{color: white;
+background-color: green;}
+.g{width: 40%;
+float: right;
+right: 10px;
+margin-right: 60px;
+margin-top: 25px;
+}
+
+input{margin-top: 15px;}
